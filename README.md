@@ -1,5 +1,6 @@
 # Data Analysis Portfolio Projects
 
+
 ## SQL & PowerBI - Breweries
 
 * Date of creation: April 7, 2023
@@ -12,6 +13,7 @@
 
 
 ------
+
 
 ## Tableau - Staple Food Crops of the World (2000 - 2021)
 
@@ -42,6 +44,7 @@
 
 ------
 
+
 ## Tableau - E-Commerce Revenue UK retailer
 
 * Date of creation: Aug 30, 2023
@@ -59,3 +62,19 @@
 * Date of creation: January 13, 2023
 
 ![google-ads-report](Google%20Data%20Studio%20-%20Google%20Ads/google-ads-report.png)
+
+------
+
+
+## Python - Water potability Exploratory Data Analysis (EDA)
+* Date of creation: July 17, 2023
+* Dataset in Kaggle: [Link](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
+* Notebook in Google Colaboraty: [Link](https://colab.research.google.com/drive/191QOQFcczyvk2RzzK7ZMlCcHXoayLX_c?usp=sharing)
+  
+
+![1](Python%20-%20Water%20potability%20EDA/1.png)
+
+![2](Python%20-%20Water%20potability%20EDA/2.png)
+
+![3](Python%20-%20Water%20potability%20EDA/3.png)
+
