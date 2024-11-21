@@ -78,3 +78,16 @@
 
 ![3](Python%20-%20Water%20potability%20EDA/3.png)
 
+
+## Python Plotly - Remote Work & Mental Health (EDA)
+* Date of creation: November 13, 2024
+* Dataset in Kaggle: [Link](https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health/data)
+* Notebook in Google Colaboraty: [Link](https://colab.research.google.com/drive/191QOQFcczyvk2RzzK7ZMlCcHXoayLX_c?usp=sharing)
+  
+
+![1](Python%20Plotly%20-%20Remote%20Work%20%26%20Mental%20Health/1.png)
+
+![2](Python%20Plotly%20-%20Remote%20Work%20%26%20Mental%20Health/2.png)
+
+![2](Python%20Plotly%20-%20Remote%20Work%20%26%20Mental%20Health/3.png)
+
