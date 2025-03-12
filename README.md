@@ -87,11 +87,7 @@
 * Notebook in Google Colaboratory (PySpark): [Link](https://colab.research.google.com/drive/1b3Mpo7T6vpzSbbzsrxGdbA41PeelFRzX?usp=sharing)
 
 
-![1](Python%20Plotly%20-%20Remote%20Work%20%26%20Mental%20Health/1.png)
-
-![2](Python%20Plotly%20-%20Remote%20Work%20%26%20Mental%20Health/2.png)
-
-![2](Python%20Plotly%20-%20Remote%20Work%20%26%20Mental%20Health/3.png)
+![1](Python%20Plotly%20-%20Remote%20Work%20%26%20Mental%20Health/Impact_of_remote_work.gif)
 
 
 
