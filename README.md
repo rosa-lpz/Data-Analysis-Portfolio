@@ -82,7 +82,9 @@
 ## Python Plotly - Remote Work & Mental Health (EDA)
 * Date of creation: November 13, 2024
 * Dataset in Kaggle: [Link](https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health/data)
-* Notebook in Google Colaborary: [Link](Python%20Plotly%20-%20Remote%20Work%20%26%20Mental%20Health/Impact_of_Remote_Work_on_Mental_Health_(Plotly).ipynb)
+* Notebook in GitHub: [Link](Python%20Plotly%20-%20Remote%20Work%20%26%20Mental%20Health/Impact_of_Remote_Work_on_Mental_Health_(Plotly).ipynb)
+* Notebook in Google Colaboratory: [Link](https://drive.google.com/file/d/1I3Ka4_PBDKJE1NvSGAsiZEFlVq2DX_GW/view?usp=sharing)
+* Notebook in Google Colaboratory (PySpark): [Link](https://colab.research.google.com/drive/1b3Mpo7T6vpzSbbzsrxGdbA41PeelFRzX?usp=sharing)
 
 
 ![1](Python%20Plotly%20-%20Remote%20Work%20%26%20Mental%20Health/1.png)
